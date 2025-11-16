@@ -40,3 +40,8 @@ while i <= 5:
     num.append(i)
     i += 1
 print(num)
+
+#reverse indexing
+print(fruits[-1]) #last element
+print(fruits[-2]) #second last element
+print(fruits[:-1])
